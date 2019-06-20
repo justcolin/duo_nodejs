@@ -1,7 +1,7 @@
 /* eslint-disable */
 
 /**
- * Duo Web SDK v2
+ * Duo Web SDK v3
  * Copyright 2017, Duo Security
  */
 
